@@ -55,7 +55,7 @@ export default function Home() {
 
         <div className="flex flex-col gap-4">
           <h1 className="text-4xl font-semibold tracking-tight text-balance">
-            Making a change to my web app.
+            Making a change to my web app. with clerk
           </h1>
           <p className="max-w-md text-lg text-muted-foreground">
             Looking for a starting point or more instructions? Explore the
